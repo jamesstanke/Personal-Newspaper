@@ -1,0 +1,13 @@
+*{
+  font-family: 'Gamja Flower', cursive;
+}
+.header {
+  color:red;
+  
+.background {
+   background-image: url("mango.png");
+   background-color: #cccccc;
+}
+body {
+  color: black;
+}
